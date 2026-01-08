@@ -3,10 +3,10 @@ Collaborative Filtering System in Python
 
 A modular, Python-based movie recommendation system built with collaborative filtering techniques using the MovieLens 100K dataset.
 
---> Project Overview
+# Project Overview
 This project implements a complete recommendation pipeline from data loading to personalized movie suggestions. It features multiple collaborative filtering algorithms with performance comparison capabilities.
 
---> System Architecture
+# System Architecture
 Core Modules
 DataLoader - Handles dataset loading and initial structuring
 
@@ -25,7 +25,7 @@ Item-Based Collaborative Filtering - Recommendations based on similar movies
 
 Hybrid Approach - Combined user-based and item-based methods
 
---> Dataset
+# Dataset
 The system uses the MovieLens 100K dataset containing:
 
 100,000 ratings from 943 users on 1,682 movies
@@ -36,7 +36,7 @@ Movie metadata (genres, release dates)
 
 User demographic information
 
---> Installation & Setup
+# Installation & Setup
 Prerequisites
 bash
 Python 3.7+
@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn scipy
 Download Dataset
 Place the MovieLens 100K dataset files (u.data, u.item, u.user) in a dataset/ directory at the project root.
 
---> Usage
+# Usage
 Quick Start
 python
 from main import ML100KRecommendationSystem
@@ -112,7 +112,7 @@ movie-recommendation-system/
 │   ├── u.item
 │   └── u.user
 └── results/                # Generated recommendations and logs
---> Key Features
+# Key Features
 Modular Design: Clean separation of concerns for easy maintenance
 
 Multiple Algorithms: Compare user-based, item-based, and hybrid approaches
@@ -125,7 +125,7 @@ Efficient Computation: Sparse matrix operations and optimized similarity calcula
 
 Result Export: Save recommendations to CSV for analysis
 
---> Technical Details
+# Technical Details
 Similarity Calculation
 Uses cosine similarity for user-user and item-item comparisons
 
@@ -140,16 +140,7 @@ Similarity calculations ignore mutual zeros
 
 Fallback strategies for cold-start scenarios
 
---> Documentation
-For detailed documentation on each module and algorithm, see:
-
-Architecture Overview
-
-Algorithm Details
-
-API Reference
-
---> Contributing
+# Contributing
 Fork the repository
 
 Create a feature branch (git checkout -b feature/AmazingFeature)
@@ -160,10 +151,10 @@ Push to branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
---> License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
---> Academic Use
+# Academic Use
 This project serves as an excellent example for:
 
 Machine Learning courses
@@ -174,5 +165,5 @@ Collaborative filtering implementations
 
 Python software architecture
 
---> Contact
+# Contact
 For questions or feedback, please open an issue on GitHub.
