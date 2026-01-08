@@ -70,7 +70,7 @@ View most active users
 
 Run performance tests
 
---> Performance Metrics
+# Performance Metrics
 The system evaluates recommendations using:
 
 MAE (Mean Absolute Error)
@@ -81,7 +81,7 @@ Precision@k (Top-N recommendation quality)
 
 Execution Time comparison
 
---> Example Output
+# Example Output
 text
 🎯 RECOMMENDATIONS FOR USER 123 (HYBRID)
 ============================================================
