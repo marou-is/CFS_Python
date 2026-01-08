@@ -86,7 +86,7 @@ Execution Time comparison
 🎯 RECOMMENDATIONS FOR USER 123 (HYBRID)
 ============================================================
 
-🌟 TOP 5 RECOMMANDATIONS:
+🌟 TOP 3 RECOMMANDATIONS:
 ------------------------------------------------------------
  1. The Shawshank Redemption (1994)
     📊 Score: 4.72 | Genres: Drama
