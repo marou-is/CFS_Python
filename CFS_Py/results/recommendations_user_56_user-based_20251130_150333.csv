@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+12,"Usual Suspects, The (1995)",4.50519888082223,56,user-based,20251130_150333
+318,Schindler's List (1993),4.4507670127344285,56,user-based,20251130_150333
+313,Titanic (1997),4.448221750352736,56,user-based,20251130_150333
+496,It's a Wonderful Life (1946),4.399843794991773,56,user-based,20251130_150333
+251,Shall We Dance? (1996),4.398726375717286,56,user-based,20251130_150333

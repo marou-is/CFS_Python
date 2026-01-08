@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+318,Schindler's List (1993),4.719024725422659,2,user-based,20251227_224503
+64,"Shawshank Redemption, The (1994)",4.717315091754321,2,user-based,20251227_224503
+515,"Boot, Das (1981)",4.654694344874615,2,user-based,20251227_224503

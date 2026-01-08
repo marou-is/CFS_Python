@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+172,"Empire Strikes Back, The (1980)",2.797339574068784,3,hybrid,20251130_145936
+174,Raiders of the Lost Ark (1981),2.7938665078590743,3,hybrid,20251130_145936
+22,Braveheart (1995),2.7845234772101226,3,hybrid,20251130_145936
+12,"Usual Suspects, The (1995)",2.7710458637877884,3,hybrid,20251130_145936
+64,"Shawshank Redemption, The (1994)",2.7625586462471814,3,hybrid,20251130_145936

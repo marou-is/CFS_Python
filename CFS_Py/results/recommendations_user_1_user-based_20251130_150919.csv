@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+408,"Close Shave, A (1995)",4.547335729277898,1,user-based,20251130_150919
+313,Titanic (1997),4.506367269377898,1,user-based,20251130_150919
+483,Casablanca (1942),4.461920145078315,1,user-based,20251130_150919

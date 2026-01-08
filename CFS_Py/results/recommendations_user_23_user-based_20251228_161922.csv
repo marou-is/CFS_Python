@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+169,"Wrong Trousers, The (1993)",4.755162562747519,23,user-based,20251228_161922
+114,Wallace & Gromit: The Best of Aardman Animation (1996),4.663722850471507,23,user-based,20251228_161922
+64,"Shawshank Redemption, The (1994)",4.545595455875664,23,user-based,20251228_161922
+496,It's a Wonderful Life (1946),4.504682145381856,23,user-based,20251228_161922
+12,"Usual Suspects, The (1995)",4.45624270172116,23,user-based,20251228_161922

@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+297,Ulee's Gold (1997),3.9802730781940925,32,item-based,20251204_124108
+253,"Pillow Book, The (1995)",3.8948845701525654,32,item-based,20251204_124108
+512,Wings of Desire (1987),3.8670077445597144,32,item-based,20251204_124108
+244,Smilla's Sense of Snow (1997),3.84923957995949,32,item-based,20251204_124108
+165,Jean de Florette (1986),3.8128031313380246,32,item-based,20251204_124108

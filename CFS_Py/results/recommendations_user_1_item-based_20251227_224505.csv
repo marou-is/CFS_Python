@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+475,Trainspotting (1996),4.653948535399812,1,item-based,20251227_224505
+279,Once Upon a Time... When We Were Colored (1995),4.602124751424414,1,item-based,20251227_224505
+285,Secrets & Lies (1996),4.576120264777293,1,item-based,20251227_224505

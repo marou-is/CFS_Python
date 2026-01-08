@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+64,"Shawshank Redemption, The (1994)",4.68694939909615,32,user-based,20251204_124044
+114,Wallace & Gromit: The Best of Aardman Animation (1996),4.648720355349362,32,user-based,20251204_124044
+42,Clerks (1994),4.59735654066716,32,user-based,20251204_124044
+56,Pulp Fiction (1994),4.566412381214237,32,user-based,20251204_124044
+169,"Wrong Trousers, The (1993)",4.557431696302987,32,user-based,20251204_124044

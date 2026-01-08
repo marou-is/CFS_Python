@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+390,Fear of a Black Hat (1993),3.301268822791205,3,item-based,20251227_224506
+534,Traveller (1997),3.2801166370253942,3,item-based,20251227_224506
+47,Ed Wood (1994),3.2700305474802147,3,item-based,20251227_224506

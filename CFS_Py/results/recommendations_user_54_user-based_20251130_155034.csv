@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+172,"Empire Strikes Back, The (1980)",4.796597002055482,54,user-based,20251130_155034
+64,"Shawshank Redemption, The (1994)",4.7342584444123395,54,user-based,20251130_155034
+98,"Silence of the Lambs, The (1991)",4.713560206445402,54,user-based,20251130_155034
+169,"Wrong Trousers, The (1993)",4.653958912896282,54,user-based,20251130_155034
+56,Pulp Fiction (1994),4.5799413368838096,54,user-based,20251130_155034

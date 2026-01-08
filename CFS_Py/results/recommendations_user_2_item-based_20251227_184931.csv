@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+492,East of Eden (1955),4.386407839544931,2,item-based,20251227_184931
+493,"Thin Man, The (1934)",4.361421453330142,2,item-based,20251227_184931
+464,Vanya on 42nd Street (1994),4.3515948147834145,2,item-based,20251227_184931

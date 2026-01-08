@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+136,Mr. Smith Goes to Washington (1939),4.5800872431068775,10,hybrid_ml100k,20251130_131643
+427,To Kill a Mockingbird (1962),4.552306629830067,10,hybrid_ml100k,20251130_131643
+515,"Boot, Das (1981)",4.466887845471552,10,hybrid_ml100k,20251130_131643
+169,"Wrong Trousers, The (1993)",2.708102115258303,10,hybrid_ml100k,20251130_131643
+318,Schindler's List (1993),2.66736321419905,10,hybrid_ml100k,20251130_131643

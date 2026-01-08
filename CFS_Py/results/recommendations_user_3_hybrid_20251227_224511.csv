@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+172,"Empire Strikes Back, The (1980)",2.797339574068784,3,hybrid,20251227_224511
+174,Raiders of the Lost Ark (1981),2.7938665078590743,3,hybrid,20251227_224511
+22,Braveheart (1995),2.7845234772101226,3,hybrid,20251227_224511

@@ -1,0 +1,6 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+313,Titanic (1997),4.751500987052524,67,user-based,20251130_150624
+98,"Silence of the Lambs, The (1991)",4.662670081514347,67,user-based,20251130_150624
+50,Star Wars (1977),4.654040708548414,67,user-based,20251130_150624
+318,Schindler's List (1993),4.647534540638299,67,user-based,20251130_150624
+114,Wallace & Gromit: The Best of Aardman Animation (1996),4.620667812578172,67,user-based,20251130_150624

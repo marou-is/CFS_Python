@@ -1,0 +1,4 @@
+movie_id,title,predicted_rating,user_id,method,timestamp
+408,"Close Shave, A (1995)",4.535703035811618,1,hybrid,20251130_150931
+285,Secrets & Lies (1996),4.447299110549145,1,hybrid,20251130_150931
+313,Titanic (1997),2.7038203616267387,1,hybrid,20251130_150931
