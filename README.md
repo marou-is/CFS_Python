@@ -82,7 +82,7 @@ Precision@k (Top-N recommendation quality)
 Execution Time comparison
 
 # Example Output
-text
+
 🎯 RECOMMENDATIONS FOR USER 123 (HYBRID)
 ============================================================
 
@@ -99,8 +99,8 @@ text
  3. The Godfather (1972)
     📊 Score: 4.61 | Genres: Crime, Drama
     🗓️  Year: 1972
---> Project Structure
-text
+# Project Structure
+
 movie-recommendation-system/
 ├── data_loader.py          # Data loading module
 ├── data_cleaning.py        # Data preprocessing module
